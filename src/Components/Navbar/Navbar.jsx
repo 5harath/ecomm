@@ -12,9 +12,9 @@ export const Navbar = () => {
         </div>
         <ul className="nav-menu">
             <li>Shop <hr/></li>
-            <li>Men <hr/></li>
-            <li>Kids <hr/></li>
-            <li>Women <hr/></li>
+            <li>Men</li>
+            <li>Kids</li>
+            <li>Women</li>
         </ul>
         <div className='nav-login-cart'>
             <button>Login</button>
